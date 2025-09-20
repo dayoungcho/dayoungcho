@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 - 미추홀외국어고등학교 (2018.03 - 2021.01)
 - 중앙대학교 응용통계학과 (2021.03 - 2026.02)
 ## tech stacks
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-232F3E?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/R-232F3E?style=flat-square&logo=R&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/SPSS-2496ED?style=flat-square&"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SAS-D24939?style=flat-square&"/></a>&nbsp 
-<img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
+  <img src="https://img.shields.io/badge/SPSS-2496ED?style=flat-square&"/></a>
+  <img src="https://img.shields.io/badge/SAS-D24939?style=flat-square&"/></a>
 
 ## experience
 
