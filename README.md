@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - experience
 - awards
 - tech stack
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoungcho)](https://github.com/anuraghazra/github-readme-stats)
+
 - more about me
 - 
