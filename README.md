@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- brief introduction
-- major
-- experience
-- awards
+## brief introduction
+## educations
+- 미추홀외국어고등학교 (2018.03 - 2021.01)
+- 중앙대학교 응용통계학과 (2021.03 - 2026.02)
+## tech stacks
+
+## experience
+## awards
 - tech stack
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoungcho)](https://github.com/anuraghazra/github-readme-stats)
 
 - more about me
-- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungcho&layout=compact)
