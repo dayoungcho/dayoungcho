@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ## more about me
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomi2929)](https://solved.ac/gomi2929/)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungcho&layout=compact)
-
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoungcho&count_private=true)
 ## contact
